@@ -11,7 +11,7 @@
 	<groupId>com.foodapplication</groupId>
 	<artifactId>foodApp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>quizApp</name>
+	<name>foodApp</name>
 	<description>A food application with springboot</description>
 	<url/>
 	<licenses>
